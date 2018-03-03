@@ -1,0 +1,4 @@
+2018-03-03 16:35:22,608 People_Logger ERROR    row 10: Illegal gender 'orange'
+2018-03-03 16:35:22,608 People_Logger ERROR    row 16: duplicate ID: Person_15
+2018-03-03 16:35:22,609 People_Logger ERROR    row 9: for Person_9 mother named 'Neil' is not female
+2018-03-03 16:35:22,609 People_Logger ERROR    row 9: for Person_9 father named 'Sarah' is not male

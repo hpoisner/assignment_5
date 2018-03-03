@@ -1,0 +1,16 @@
+Person_1	Taylor	Person_2	Person_3	F
+Person_2	Danny	0	0	M
+Person_3	Annette	0	0	F
+Person_4	Victoria	Person_6	Person_5	F
+Person_5	Carol	0	0	F
+Person_6	Mark	0	0	M
+Person_7	Sarah	0	0	F
+Person_8	Neil	0	0	Male
+Person_9	Eric	Person_7	Person_8	M
+Person_10	Crystal	Person_8	Person_7	orange
+Person_11	Lisa	0	0	unknown
+Person_12	Brian	0	0	M
+Person_13	Aisha	0	0	F
+Person_14	Rachel	0	0	F
+Person_15	Alec	0	0	male
+Person_15	Mike	0	0	m
